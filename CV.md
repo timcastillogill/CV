@@ -6,11 +6,11 @@ I have performed viola with loop pedal in a range of situations, from performanc
 
 I am now looking for a role in an organisation that offers opportunities to deepen my knowledge while working at the highest possible standard.
 
-## **Projects**
+## Projects
 | Name                         | Description       | Tech/tools        |
-| —————————————— | ———————— | ———————— |
-| ****Final project****            | A webapp to do x. | React, Jest, etc. |
-| ****Something else worked on**** | A webapp to do y. | Ruby              |
+| ---------------------------- | ----------------- | ----------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## **Experience**
 
@@ -58,7 +58,6 @@ Several times a day, five days a week, a classful of children act out the messag
 Highly selective 12 week intensive coding bootcamp.
 
 * Focus on Test Driven Development, emphasising pair programming and agile workflow
-* 
 * OOP, TDD, MVC, DDD
 * Agile/XP
 * Ruby, Rails, JavaScript
