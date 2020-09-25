@@ -1,8 +1,4 @@
-# Github CV
-#jobsearch/software developer#
-
 ## Tim Castillo-Gill
-
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -17,6 +13,7 @@ I have performed viola with loop pedal in a range of situations, from performanc
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
+
 **Lanesborough Prep School** (January 2019 to August 2020)
 *Teacher of Year 4 & Year 6*
 
@@ -33,13 +30,6 @@ I have performed viola with loop pedal in a range of situations, from performanc
 
 
 ## Skills
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-* Team work & Communicating complex procedures systematically for clear workflow understanding
-* Detail orientated: What’s the objective? Fine-tune and refactor for a more streamlined process. Designing curricula, incorporating learning strategies, problem solving, creating visual aids. 
-
-* Assigning grades: Evaluating, examining, assessing performance, interpreting test results, determining potential of individuals, monitoring progress. 
-* Working under pressure and meeting deadlines: Several times a day, five days a week, thirty-six weeks a year, a classful of students act out the message, “coming, ready or not,” having the ability to step to the front of the classroom to carry out lesson plans. And having a contingency plan for backup, just in case the AV equipment is not delivered on time. 
 
 #### Discipline
 In order to become a professional musician and then teacher, I have had to be disciplined and focused, using time-blocks in order to better productivity.
