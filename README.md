@@ -21,9 +21,9 @@ I have just completed a software engineering course at Makers Academy, where I w
 
 | Name | Description | Tech/Tools |
 | :------: | ----------- | ------- |
-| [**Why Leave?**](https://github.com/timcastillogill/Why_Leave_Front_End) | An interactive map showing why people are fleeing their home countries. <br>Group project - 1.5 weeks <br>Frontend repo [here](https://github.com/timcastillogill/Why_Leave_Front_End) <br>Backend API repo [here](https://github.com/Joshuamac2/Why-leave-backend) <br>Deployed at [https://why-leave.vercel.app/](https://why-leave.vercel.app/) | React, Jest, Ruby on Rails, Rspec, CSS and Bootstrap |
-| [**Chitter**](https://github.com/timcastillogill/chitter-challenge) | A clone of the popular social media app Twitter <br>Solo project - weekend challenge <br>Github repo [here](https://github.com/timcastillogill/chitter-challenge) | Ruby, Sinatra, Rspec, Capybara |
-| [**Thermostat**](https://github.com/timcastillogill/thermostat_Friday) | A minimalist front-end app for controlling temperature <br>Pair project <br>Github repo [here](https://github.com/timcastillogill/thermostat_Friday) | Javascript, JQuery, Jasmine, CSS             |
+| [**Why Leave?**](https://github.com/timcastillogill/Why_Leave_Front_End) | An interactive map showing why people are fleeing their home countries. <br><br>Group project - 1.5 weeks <br><br>Frontend repo [here](https://github.com/timcastillogill/Why_Leave_Front_End) <br>Backend API repo [here](https://github.com/Joshuamac2/Why-leave-backend) <br>Deployed at [https://why-leave.vercel.app/](https://why-leave.vercel.app/) | React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap<br><br>Heroku, Vercel, Travis CI,  |
+| [**Chitter**](https://github.com/timcastillogill/chitter-challenge) | A clone of the popular social media app Twitter <br><br>Solo project - weekend challenge <br><br>Github repo [here](https://github.com/timcastillogill/chitter-challenge) | Ruby, Sinatra, Rspec, Capybara |
+| [**Thermostat**](https://github.com/timcastillogill/thermostat_Friday) | A minimalist front-end app for controlling temperature <br><br>Pair project <br><br>Github repo [here](https://github.com/timcastillogill/thermostat_Friday) | Javascript, JQuery, Jasmine, CSS   |
 
 
 ## Tech Skills
