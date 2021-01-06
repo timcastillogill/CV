@@ -1,82 +1,127 @@
-## **Tim Castillo-Gill**
+<div align="center">
+<h1>Tim Castillo-Gill</h1>
 
-I am a life-time learner, motivated by curiosity and questioning; a junior software engineer with a strong interest in technology for sustainable outcomes. 
+---
 
-I have performed viola with loop pedal in a range of situations, from performances to the upper echelons of Qatar to street performing (busking) in my home town of Stroud. Graduating with a music degree, and later a PGCE (teaching qualification) from Exeter University, I have been a teacher to primary school children for five years. 
+**A full-stack software developer with a growth-mindset and an eye for detail**
 
-I am now looking for a role in an organisation that offers opportunities to deepen my knowledge while working at the highest possible standard.
+[Projects](#Projects) | [Skills](#Tech-Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Linkedin](https://www.linkedin.com/in/tim-castillo-gill-30a27b42/)
+<br>
+</div>
+
+---
+
+My background is in education, as a primary school teacher I taught a large range of subjects. Increasingly, I used technology in the classroom from using google maps in Geography, writing questionnaires in topic subjects, sending assignments through [Google Classroom](https://edu.google.com/intl/en-GB/products/classroom/) and [Showbie](https://www.showbie.com/), creating mood boards in [Padlet](https://en-gb.padlet.com/) and programming using [Scratch](https://scratch.mit.edu/), [Lightbot](https://lightbot.com/) and [LegoMindstorm](https://www.lego.com/en-gb/categories/coding-for-kids). 
+
+I have spent much of my career learning and developing skills across a range of fields with amazing people. Now I am embarking on a new challenge as a software developer, where I can pool all of my knowledge and experience to help build fantastic products. 
+
+I have just completed a software engineering course at Makers Academy, where I was able to develop skills and processes in line with best industry practices. I feel motivated to produce clean, test-driven code to create products that make a difference. 
 
 ## Projects
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
 
-## **Experience**
+| Name | Description | Tech/Tools |
+| :------: | ----------- | ------- |
+| [**Why Leave?**](https://github.com/timcastillogill/Why_Leave_Front_End) | An interactive map showing why people are fleeing their home countries. <br>Group project - 1.5 weeks <br>Frontend repo [here](https://github.com/timcastillogill/Why_Leave_Front_End) <br>Backend API repo [here](https://github.com/Joshuamac2/Why-leave-backend) <br>Deployed at [https://why-leave.vercel.app/](https://why-leave.vercel.app/) | React, Jest, Ruby on Rails, Rspec, CSS and Bootstrap |
+| [**Chitter**](https://github.com/timcastillogill/chitter-challenge) | A clone of the popular social media app Twitter <br>Solo project - weekend challenge <br>Github repo [here](https://github.com/timcastillogill/chitter-challenge) | Ruby, Sinatra, Rspec, Capybara |
+| [**Thermostat**](https://github.com/timcastillogill/thermostat_Friday) | A minimalist front-end app for controlling temperature <br>Pair project <br>Github repo [here](https://github.com/timcastillogill/thermostat_Friday) | Javascript, JQuery, Jasmine, CSS             |
 
-****[Lanesborough Prep School](https://www.lanesborough.surrey.sch.uk/)**** (January 2019 to August 2020)
-**Teacher of Year 4 & Year 6**
 
-* Breaking down processes for understanding and learning
-* Invoking motivation through children’s interests (e.g. explore friction through designing a pair of trainers)
-* Short term planning (single lesson) to long term planning (termly). Thinking about the broad objectives of the term, breaking them down into the smaller objectives of the weeks, breaking them down to the daily objectives of the lesson. Skills, methods and understanding.
+## Tech Skills
 
-****[British Junior Academy of Brussels](https://bjab.org/)**** (September 2015 to August 2018)
-**Year 3 teacher and Music and Performing Arts Coordinator**
+---
 
-* Developed acute time-management skills in order to fulfil my two responsibilities
-* Had a lead role in organising the school carol concert, musically and logistically; one musical play performance per term from certain year groups; and the end of year school song. Object-orientated goals. 
+**Javascript:** Vanilla JS, ES6, React, Jquery, Cypress, Jasmine
 
-## **Skills**
+**Ruby:** Ruby on Rails, Sinatra, Rspec, Capybara
 
-#### **Discipline**
+Git, HTML, CSS, Bootstrap, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
 
-To thrive at either teaching or professional musicianship, discipline and focus are non-negotiable to stay afloat and stay smiling. Throughout my careers I have put systems in place like time-blocking, bounteous todo listing and self-awareness of ensuring ‘left-brain’ activities for one day and ‘right-brain’ for another. 
+## Other Skills
 
-In order to become a professional musician and then teacher, I’ve had to be disciplined and focused, using time-blocks in order to better productivity.
+---
 
-#### **Creative problem-solving**
-What’s the objective? What is needed to do it? 
+### What's the **objective**?
 
-By breaking down a learning objective into small chunks and then dissecting  for necessary knowledge, methods or strategies for each chunk, I found my teaching foundations. I could then creatively problem-solve using teaching and learning behaviours and strategies to unlock the necessary chunks for young learners. Throughout my time at Makers, I found this strategy of creative problem-solving an excellent tool or process in order to unlock the difficulties, bugs or problem areas that inevitably arise in code.
+I am experienced in breaking down a problem into manageable chunks and taking a methodical approach as is necessary in education. Lesson planning helped me streamline a transferable process that yielded great results. Asking: What skills, methods, understanding are necessary in order to reach that objective? Working from the destination, backwards.
 
-~~In teaching, taking this methodical approach to lesson planning helped me streamline a transferable process that yielded good results. Asking: What skills, methods, understanding do they need in order to reach that objective? By planning a lesson in reverse, while incorporating learning strategies, problem solving and creating visual aids.~~ 
+### Working under pressure and meeting deadlines
 
-~~On a day-to-day basis and sometimes at short notice I was implementing a range of problem-solving strategies.~~ 
+Several times a day, five days a week, a class full of students act out the message, “coming, ready or not,” having the ability to step to the front of the classroom to carry out lesson plans. And having a contingency plan for backup, just in case the computer fails you!
 
-#### **Reflective and Critical Thinking**
-An effective teacher is reflective and honest about the ‘what went well’ and the ‘even better if’ aspects of their teaching. This reflective practise facilitates self-development and best practice. 
+### Discipline
 
-To inform teaching objectives,  it is necessary to evaluate and interpret  test results. I have used this information to inform teaching objectives, assess performance, evaluate and monitor the progress of children. Makers emphasises a Test-driven development technique, similar to my experience in education, we can use this to find gaps in knowledge, or in code, misaligned method arguments for example.
+In order to become a professional musician, I have had to be disciplined and focused, using systematic approaches in order to learn and practise efficiently. I use time-blocks in order to better productivity.
 
-#### **Time management**
-Several times a day, five days a week, a classful of children act out the message, “coming, ready or not”. Ensuring preparation of resources, timetable management, messages from parents and senior management are adhered to, marking, toilet time, coats on time and swimming costumes are taken home at the end of the day. The list is exhaustive of how imperative time management and organisation skills are in primary education.
+### Reflective and Critical Thinking
 
-## **Education**
+An effective teacher is reflective and honest about the ‘what went well’ and the ‘even better if’ aspects of their teaching. This reflective practise facilitates self-development and best practice.
 
-#### **[Makers Academy](https://makers.tech/) (September 2020 to December 2020)**
+## Experience
+
+---
+
+### KS2 Teacher
+
+Lanesborough Prep School (January 2019 to August 2020) 
+
+*Lanesborough is a long-established preparatory school. It is well known for its excellent academic and pastoral strengths alongside outstanding music departments and strong sport and extra-curricular opportunities for all boys.*
+
+- Prepared and taught children for their 11+ entrance exams, many getting into their desired schools
+- Explored and instigated greater use of technology in the classroom, enriching and engaging children with the curriculum.
+- Assisted the head of music in a range of musical activities including rehearsals, performances and music technology, ensuring opportunities to celebrate their progress in their chosen instrument.
+
+
+
+### **KS2 Teacher and Music and Performing Arts Coordinator**
+
+British Junior Academy of Brussels (September 2015 to August 2018)
+
+*Located in the centre of Brussels, BJAB is a friendly school of approximately 200 pupils with small class sizes throughout the school from PreKindergarten to Year 8.*
+
+- Resourced and organised plays and music, broadening the curriculum and revealing a passion for performance in children.
+- Implemented Shanghai Maths components, leading to better end of year scores in problem solving and reasoning.
+- Worked with a specialist to build a bespoke curriculum for a child with special needs, ensuring good progress throughout the school year.
+- Opened a ukulele club which performed at most school events, enriching the curriculum and fostering culture of music and performance at the school.
+- Organised school trips and visiting professionals, broadening and varying children's experiences with the curriculum.
+
+
+
+### Production Manager
+
+Altitude Music [](https://app.bmgproductionmusic.co.uk/labels/3153?sort=newest)(June 2012 - July 2014)
+
+*Altitude Music is a high quality production music catalogue for film and TV, now operating as BMG Production Music, owned by BMG*
+
+- Created systematic approaches to streamline album releases, creating an efficient workflow.
+- Developed and maintained good relationships with composers and producers, ensuring an informed and personable point of contact for this side of the business.
+- Learned technical producing skills for editing and engineering voice overs, creating opportunities for the business to take on more engineering work.
+
+## Education
+
+---
+
+### Makers Academy (September 2020 to December 2020)
+
 Highly selective 12 week intensive coding bootcamp.
 
-* Focus on Test Driven Development, emphasising pair programming and agile workflow
-* OOP, TDD, MVC, DDD
-* Agile/XP
-* Ruby, Rails, JavaScript
-* RSpec, Jasmine
+- Focus on Test Driven Development, emphasising pair programming and agile workflow
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
 
-#### **[Exeter University](https://www.exeter.ac.uk/)(2014 to 2015)**
+### Exeter University (2014 to 2015)
 
-* PGCE Primary with specialism in music education
+- PGCE Primary with specialism in music education
 
-#### **[Oxford Brookes](https://www.brookes.ac.uk/) (2006 to 2009)**
+### Oxford Brookes (2006 to 2009)
 
-* BA in Music: 2:2
+- BA in Music
 
-#### **Any other qualifications**
-* Grade 8 Violin
-* Grade 8 Viola
-* Sound knowledge of editing, mixing and mastering on [Logic Pro X](https://www.apple.com/uk/logic-pro/)
+## Interests
 
-## **Hobbies**
-* ****Music****: Actively follow a diverse range of music.
-* ****Composition****: Compose and perform using viola and live sampling/looping (www.TimGillViola.com). 
-* ****Psychology****: Read and research psychological interests including mindfulness and education psychology.
+---
+
+- **Music**: Actively follow a diverse range of music.
+- **Composition**: Compose and perform using viola and live sampling/looping (www.TimGillViola.com).
+- **Psychology**: Read and research psychological interests including mindfulness and education psychology.
