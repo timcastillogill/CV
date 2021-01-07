@@ -9,13 +9,15 @@
 <br>
 </div>
 
----
+## Background
 
-My background is in education, as a primary school teacher I taught a large range of subjects. Increasingly, I used technology in the classroom from using google maps in Geography, writing questionnaires in topic subjects, sending assignments through [Google Classroom](https://edu.google.com/intl/en-GB/products/classroom/) and [Showbie](https://www.showbie.com/), creating mood boards in [Padlet](https://en-gb.padlet.com/) and programming using [Scratch](https://scratch.mit.edu/), [Lightbot](https://lightbot.com/) and [LegoMindstorm](https://www.lego.com/en-gb/categories/coding-for-kids). 
+I am a recent graduate of one of the most discerning dev bootcamps in the world, [Makers Academy](https://makers.tech/), and I'm now ready to further hone my skills with ambitious, driven colleagues in my future employment.
 
-I have spent much of my career learning and developing skills across a range of fields with amazing people. Now I am embarking on a new challenge as a software developer, where I can pool all of my knowledge and experience to help build fantastic products. 
+I have developed skills and processes in line with best industry practices and am now looking for the opportunity to produce clean, test-driven code to create products that strive for positive change. 
 
-I have just completed a software engineering course at Makers Academy, where I was able to develop skills and processes in line with best industry practices. I feel motivated to produce clean, test-driven code to create products that make a difference. 
+With a previous life in education, I have the tools to communicate and teach effectively. Whether that be during paired-programming sessions or presenting a product to a client. In the classroom, I increasingly used technology to inspire children from using google maps in Geography, writing questionnaires in topic subjects, sending assignments through [Google Classroom](https://edu.google.com/intl/en-GB/products/classroom/) and [Showbie](https://www.showbie.com/), creating mood boards in [Padlet](https://en-gb.padlet.com/) and programming using [Scratch](https://scratch.mit.edu/), [Lightbot](https://lightbot.com/) and [LegoMindstorm](https://www.lego.com/en-gb/categories/coding-for-kids). 
+
+Utilising electronic resources with children opened my eyes to the vast potential technological products have to unleash. While Edutech remains a strong interest, I also know that technology is going to be a big player in slowing climate change through sustainable energies. This sector is even more exciting right now given recent governmental policies. I want to be a part of that solution, which is why I undertook the Makers course, becoming a software engineer.
 
 ## Projects
 
@@ -40,21 +42,25 @@ Git, HTML, CSS, Bootstrap, PostgresSQL, Travis CI, Heroku, Agile, Test Driven De
 
 ---
 
-### What's the **objective**?
+### Create Problem Solver - What's the **objective**?
 
 I am experienced in breaking down a problem into manageable chunks and taking a methodical approach as is necessary in education. Lesson planning helped me streamline a transferable process that yielded great results. Asking: What skills, methods, understanding are necessary in order to reach that objective? Working from the destination, backwards.
 
-### Working under pressure and meeting deadlines
+### Time Management and Improvisation - Can you **time block**?
 
 Several times a day, five days a week, a class full of students act out the message, “coming, ready or not,” having the ability to step to the front of the classroom to carry out lesson plans. And having a contingency plan for backup, just in case the computer fails you!
 
-### Discipline
+During Makers, being given a project with a two week allotment in Rails to arrive half way through and the course coach tells us "you have to move your front-end to React" - a framework none of us had used before. As a team, we remained agile and calm as we reorganised our time to ensure we reached the at least the MVP.
 
-In order to become a professional musician, I have had to be disciplined and focused, using systematic approaches in order to learn and practise efficiently. I use time-blocks in order to better productivity.
+### Discipline - 10,000 hours and counting
 
-### Reflective and Critical Thinking
+In order to become a professional musician, I have had to be disciplined and focused, using systematic approaches in order to learn and practise efficiently. I use time blocks in order to better productivity.
+
+### Reflective and Critical Thinking - What do you know now, that you didn't know this morning?
 
 An effective teacher is reflective and honest about the ‘what went well’ and the ‘even better if’ aspects of their teaching. This reflective practise facilitates self-development and best practice.
+
+Throughout my training as a software engineer I have kept a private journal, ensuring my progress was tracked and blockers not forgotten. This knowledge gave me confidence, independently, that I was overcoming obstacles and learning every single day.
 
 ## Experience
 
