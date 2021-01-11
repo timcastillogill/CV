@@ -139,5 +139,5 @@ Highly selective 12 week intensive coding bootcamp.
 ---
 
 - **Music**: Actively follow a diverse range of music.
-- **Composition**: Compose and perform using viola and live sampling/looping (www.TimGillViola.com).
+- **Composition**: Compose and perform using viola and live sampling/looping <a href="www.TimGillViola.com" target="_self">TimGillViola.com</a>.
 - **Psychology**: Read and research psychological interests including mindfulness and education psychology.
