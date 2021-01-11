@@ -3,7 +3,7 @@
 ![Last updated](https://img.shields.io/badge/Last_updated-January_2021-blue)
 
 <div align="center">
-<h1>[Tim Castillo-Gill](timcastillogill@gmail.com)</h1>
+<h1>Tim Castillo-Gill</h1>
 
 ---
 [Email Me](mailto:timcastillogill@gmail.com)<br>
