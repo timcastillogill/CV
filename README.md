@@ -3,7 +3,7 @@
 
 ---
 
-**A full-stack software developer with a growth-mindset and an eye for detail**
+**A full-stack software developer that takes pride in writing readable, well-designed, well-tested sofware**
 
 [Projects](#Projects) | [Skills](#Tech-Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Linkedin](https://www.linkedin.com/in/tim-castillo-gill-30a27b42/)
 <br>
@@ -11,22 +11,17 @@
 
 ## Background
 
-I am a recent graduate of one of the most discerning dev bootcamps in the world, [Makers Academy](https://makers.tech/), and I'm now ready to further hone my skills with ambitious, driven colleagues in my future employment.
+I am a recent graduate of one of the most prestigious dev bootcamps in the world, [Makers Academy](https://makers.tech/). I'm now ready to hone my skills by joining an ambitious and driven team.
 
-I have developed skills and processes in line with best industry practices and am now looking for the opportunity to produce clean, test-driven code to create products that strive for positive change. 
+As a result of my training I am now familiar with best practices in software development:
+- Agile methodologies
+- Test Driven Development
+- Git
+- Modelling
 
-With a previous life in education, I have the tools to communicate and teach effectively. Whether that be during paired-programming sessions or presenting a product to a client. In the classroom, I increasingly used technology to inspire children from using google maps in Geography, writing questionnaires in topic subjects, sending assignments through [Google Classroom](https://edu.google.com/intl/en-GB/products/classroom/) and [Showbie](https://www.showbie.com/), creating mood boards in [Padlet](https://en-gb.padlet.com/) and programming using [Scratch](https://scratch.mit.edu/), [Lightbot](https://lightbot.com/) and [LegoMindstorm](https://www.lego.com/en-gb/categories/coding-for-kids). 
+In a previous life, I was a primary school teacher which has tooled me with transferable skills in communication and knowledge sharing. Whether that be during paired-programming sessions or presenting a product to a client.
 
-Utilising electronic resources with children opened my eyes to the vast potential technological products have to unleash. While Edutech remains a strong interest, I also know that technology is going to be a big player in slowing climate change through sustainable energies. This sector is even more exciting right now given recent governmental policies. I want to be a part of that solution, which is why I undertook the Makers course, becoming a software engineer.
-
-## Projects
-
-| Name | Description | Tech/Tools |
-| :------: | ----------- | ------- |
-| [**Why Leave?**](https://github.com/timcastillogill/Why_Leave_Front_End) | An interactive map showing why people are fleeing their home countries. <br><br>Group project - 1.5 weeks <br><br>Frontend repo [here](https://github.com/timcastillogill/Why_Leave_Front_End) <br>Backend API repo [here](https://github.com/Joshuamac2/Why-leave-backend) <br>Deployed at [https://why-leave.vercel.app/](https://why-leave.vercel.app/) | React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap<br><br>Heroku, Vercel, Travis CI,  |
-| [**Chitter**](https://github.com/timcastillogill/chitter-challenge) | A clone of the popular social media app Twitter <br><br>Solo project - weekend challenge<br>Work in Progress.<br> Examples of additions:<br>-Login<br>-Date & Time of Chit<br>-Ability to see Chits without logging in<br>-CSS<br><br>Github repo [here](https://github.com/timcastillogill/chitter-challenge) | Ruby, Sinatra, Rspec, Capybara |
-| [**Thermostat**](https://github.com/timcastillogill/thermostat_Friday) | A minimalist front-end app for controlling temperature <br><br>Pair project <br>Work in Progress.<br><br>Github repo [here](https://github.com/timcastillogill/thermostat_Friday) | Javascript, JQuery, Jasmine, CSS   |
-
+Using electronic resources to teach children opened my eyes to the potential tech products have to impact our world for good. While Edutech remains a strong interest, I also know that technology is going to be a big player in slowing climate change through sustainable energies. I want to be a part of building the solution, which is why I've decided to become a software engineer.
 
 ## Tech Skills
 
@@ -36,17 +31,38 @@ Utilising electronic resources with children opened my eyes to the vast potentia
 
 **Ruby:** Ruby on Rails, Sinatra, Rspec, Capybara
 
-Git, HTML, CSS, Bootstrap, PostgresSQL, Travis CI, Heroku, Agile, Test Driven Development
+**Tools**: <br>
+- Version Control System: <span style="color:orange">Git<br>
+- Markup Language & Tools: <span style="color:orange">HTML, CSS, Bootstrap<br>
+- Database Management System: <span style="color:orange">PostgresSQL<br>
+- Continuous Integration Service: <span style="color:orange">Travis CI<br>
+- Cloud Deployment: <span style="color:orange">Heroku, Vercel<br>
 
-## Other Skills
+
+## Projects
+---
+| Name | Description | Tech/Tools |
+| :------: | ----------- | ------- |
+| [**Why Leave?**](https://github.com/timcastillogill/Why_Leave_Front_End) | An interactive map to inform people about conflicts, traumas and sociopolitical issues occurring in unrepresented, marginalised nations and countries. <br><br>Group project - 1.5 weeks <br><br>Frontend repo [here](https://github.com/timcastillogill/Why_Leave_Front_End) <br>Backend API repo [here](https://github.com/Joshuamac2/Why-leave-backend) <br>Deployed at [here](https://why-leave.vercel.app/) | <span style="color:orange">**Languages & Frameworks:**<br>React, Cypress, Ruby on Rails, Rspec, CSS and Bootstrap<br><br>**Integration & Deployment Tools:** <br>Heroku, Vercel, Travis CI  |</span>
+| [**Chitter**](https://github.com/timcastillogill/chitter-challenge) | A clone of the popular social media app Twitter. <br><br>Solo project<br> Examples of additions:<br>-Login<br>-Date & Time of Chit<br>-Ability to see Chits without logging in<br>-CSS<br><br>Github repo [here](https://github.com/timcastillogill/chitter-challenge) | <span style="color:orange">**Languages & Frameworks:** <br>Ruby, Sinatra, Rspec, Capybara |</span>
+| [**Thermostat**](https://github.com/timcastillogill/thermostat_Friday) | A minimalist front-end app for controlling temperature. <br><br>Paired project <br>Work in Progress.<br><br>Github repo [here](https://github.com/timcastillogill/thermostat_Friday) | <span style="color:orange">**Languages & Frameworks:**<br>Javascript, JQuery, Jasmine, CSS   |</span>
+
+## Soft Skills
 
 ---
 
-### Create Problem Solver - What's the **objective**?
+### Creative Problem Solver - What's the **objective**?
 
-I am experienced in breaking down a problem into manageable chunks and taking a methodical approach as is necessary in education. Lesson planning helped me streamline a transferable process that yielded great results. Asking: What skills, methods, understanding are necessary in order to reach that objective? Working from the destination, backwards.
+I am experienced in breaking down a problem into manageable chunks and taking a methodical approach. Lesson planning helped me streamline processes that yield results.
 
-### Time Management and Improvisation - Can you **time block**?
+### Efficient and Flexible - Can you **time block** and adapt?
+
+2x Sentences on each point. 
+  1. The experience related to the heading
+  2. What was it in your previous lifetime that helped you develop bullet point number 1. 
+
+The ability to step out to the front of the classroom with a clear objective, yet having a contingency plan for backup, just in case the computer fails you! 
+
 
 Several times a day, five days a week, a class full of students act out the message, “coming, ready or not,” having the ability to step to the front of the classroom to carry out lesson plans. And having a contingency plan for backup, just in case the computer fails you!
 
