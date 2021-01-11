@@ -62,24 +62,19 @@ I am experienced in breaking down a problem into manageable chunks and taking a 
 
 ### Efficient and Flexible - Can you **time block** and adapt?
 
-2x Sentences on each point. 
+~2x Sentences on each point. 
   1. The experience related to the heading
-  2. What was it in your previous lifetime that helped you develop bullet point number 1. 
+  2. What was it in your previous lifetime that helped you develop bullet point number 1.~
 
-
-Several times a day, five days a week, a class full of students act out the message, “coming, ready or not,” having the ability to step to the front of the classroom to carry out lesson plans. And having a contingency plan for backup, just in case the computer fails you!
-
-During Makers, being given a project with a two week allotment in Rails to arrive half way through and the course coach tells us "you have to move your front-end to React" - a framework none of us had used before. As a team, we remained agile and calm as we reorganised our time to ensure we reached the at least the MVP.
+A simulated experience during Makers when our 'client' required a switch of language implementation midway through the project. Implementing important agile methodologies and critical time blocking helped us reorganise and redistribute the necessary tasks.
 
 ### Discipline - 10,000 hours and counting
 
-In order to become a professional musician, I have had to be disciplined and focused, using systematic approaches in order to learn and practise efficiently. I use time blocks in order to better productivity.
+In order to become a professional musician, I have had to be disciplined and focused. I used systematic approaches in order to learn and practise efficiently and time blocks in order to better productivity.
 
 ### Reflective and Critical Thinking - What do you know now, that you didn't know this morning?
 
-An effective teacher is reflective and honest about the ‘what went well’ and the ‘even better if’ aspects of their teaching. This reflective practise facilitates self-development and best practice.
-
-Throughout my training as a software engineer I have kept a private journal, ensuring my progress was tracked and blockers not forgotten. This knowledge gave me confidence, independently, that I was overcoming obstacles and learning every single day.
+Throughout teaching and learning I have used the feedback loop to my advantage, providing a fantastic door to unknown perspectives and reflections with which to learn and develop from. My technical process has developed greatly throughout this course due to consistent practise and feedback.
 
 ## Experience
 
