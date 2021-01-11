@@ -2,11 +2,11 @@
 ![Contactable](https://img.shields.io/badge/Contactable-Yes-9cf)
 ![Last updated](https://img.shields.io/badge/Last_updated-January_2021-blue)
 
+
 <div align="center">
-<h1>Tim Castillo-Gill</h1>
+<h1><a href="mailto:timcastillogill@gmail.com">Tim Castillo-Gill</h1></a>
 
 ---
-[Email Me](mailto:timcastillogill@gmail.com)<br>
 
 **A full-stack software developer that takes pride in writing readable, well-designed, well-tested sofware**
 
