@@ -1,7 +1,12 @@
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
+![Contactable](https://img.shields.io/badge/Contactable-Yes-9cf)
+![Last updated](https://img.shields.io/badge/Last_updated-January_2021-blue)
+
 <div align="center">
-<h1>Tim Castillo-Gill</h1>
+<h1>[Tim Castillo-Gill](timcastillogill@gmail.com)</h1>
 
 ---
+[Email Me](mailto:timcastillogill@gmail.com)<br>
 
 **A full-stack software developer that takes pride in writing readable, well-designed, well-tested sofware**
 
@@ -60,8 +65,6 @@ I am experienced in breaking down a problem into manageable chunks and taking a 
 2x Sentences on each point. 
   1. The experience related to the heading
   2. What was it in your previous lifetime that helped you develop bullet point number 1. 
-
-The ability to step out to the front of the classroom with a clear objective, yet having a contingency plan for backup, just in case the computer fails you! 
 
 
 Several times a day, five days a week, a class full of students act out the message, “coming, ready or not,” having the ability to step to the front of the classroom to carry out lesson plans. And having a contingency plan for backup, just in case the computer fails you!
