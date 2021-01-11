@@ -62,10 +62,6 @@ I am experienced in breaking down a problem into manageable chunks and taking a 
 
 ### Efficient and Flexible - Can you **time block** and adapt?
 
-~2x Sentences on each point. 
-  1. The experience related to the heading
-  2. What was it in your previous lifetime that helped you develop bullet point number 1.~
-
 A simulated experience during Makers when our 'client' required a switch of language implementation midway through the project. Implementing important agile methodologies and critical time blocking helped us reorganise and redistribute the necessary tasks.
 
 ### Discipline - 10,000 hours and counting
