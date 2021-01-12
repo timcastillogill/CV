@@ -8,7 +8,7 @@
 
 ---
 
-**A full-stack software developer that takes pride in writing readable, well-designed, well-tested sofware**
+**A full-stack software developer that takes pride in writing readable, well-designed, well-tested software**
 
 [Projects](#Projects) | [Skills](#Tech-Skills) | [Experience](#Experience) | [Education](#Education) | [Interests](#Interests) | [Linkedin](https://www.linkedin.com/in/tim-castillo-gill-30a27b42/)
 <br>
